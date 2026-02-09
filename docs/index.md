@@ -1,4 +1,4 @@
-docs/
-  index.md
-  terms.md
-  privacy.md
+---
+layout: default
+title: K-Tech Policies
+---
