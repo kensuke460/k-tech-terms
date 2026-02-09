@@ -1,7 +1,3 @@
----
-layout: default
-title: 利用規約
----
 
 # 利用規約（K-Tech）
 
